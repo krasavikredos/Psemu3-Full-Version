@@ -237,4 +237,4 @@ This repository serves as the official landing page for PSeMu3. The software is 
 **Get the most recent version of PSeMu3 today!**
 
 ---
-**Last updated:** 2026-09-26 12:49:57 UTC
+**Last updated:** 2026-09-26 16:58:08 UTC
